@@ -1,4 +1,4 @@
-📄 README.md（最终发布版）
+README.md
 
 # PrimSeqTools
 
